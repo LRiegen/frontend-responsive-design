@@ -1,12 +1,12 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-# HERKANSING
+# Herkansing
 [Document: https://github.com/LRiegen/WEB]  
 
 [Document: https://lriegen.github.io/WEB/]
 
-# OUDE VERSIE
+# Oude versie
 [Document: https://github.com/LRiegen/ProjectWEB]
 
 
