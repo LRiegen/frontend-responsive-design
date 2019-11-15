@@ -1,12 +1,12 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-## HERKANSING
+# HERKANSING
 [Document: https://github.com/LRiegen/WEB]  
 
 [Document: https://lriegen.github.io/WEB/]
 
-## OUDE VERSIE
+# OUDE VERSIE
 [Document: https://github.com/LRiegen/ProjectWEB]
 
 
@@ -20,5 +20,4 @@ Opdracht voor het vak Frontend @CMD Amsterdam
 ### 4.) Er is een werkende interactie met js gemaakt
 
 ### 5.) Er is geëxperimenteerd met verschillende technieken
-
-Mobile first -> Single Colomn Layout
+  
