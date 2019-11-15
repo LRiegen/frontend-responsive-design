@@ -2,7 +2,8 @@
 Opdracht voor het vak Frontend @CMD Amsterdam
 
 ## HERKANSING
-[Document: https://github.com/LRiegen/WEB]
+[Document: https://github.com/LRiegen/WEB]  
+
 [Document: https://lriegen.github.io/WEB/]
 
 ## OUDE VERSIE
