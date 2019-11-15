@@ -1,8 +1,13 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-[Beschrijf hier wat jij gaat doen -
-Herkansing: 2016-2017. Ik ga mijn opdracht van de NS verhalen website aanvullen.]
+## HERKANSING
+[Document: https://github.com/LRiegen/WEB]
+[Document: https://lriegen.github.io/WEB/]
+
+## OUDE VERSIE
+[Document: https://github.com/LRiegen/ProjectWEB]
+
 
 ## Criteria
 ### 1.) De HTML is gestructureerd en semantisch opgemaakt
@@ -15,4 +20,4 @@ Herkansing: 2016-2017. Ik ga mijn opdracht van de NS verhalen website aanvullen.
 
 ### 5.) Er is geëxperimenteerd met verschillende technieken
 
-[Mobile first -> Single Colomn Layout]
+Mobile first -> Single Colomn Layout
